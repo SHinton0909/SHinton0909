@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab ](https://github.com/joshcybertest/LABURL)
+  - [Active Directory Home Lab ](https://github.com/SHinton0909/ActiveDirectorylab/blob/main/README.md)
   - [Hello World! ](https://github.com/joshcybertest/LABURL)
 
 <h2>📺 Certifications</h2>
